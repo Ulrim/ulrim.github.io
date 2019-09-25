@@ -1,5 +1,7 @@
 ---
-
+title: "Express+MongoDB+GraphQL #2 CRUD"
+date: 2019-09-25 20:08:00 -0400
+categories: 
 ---
 
 이어서...
